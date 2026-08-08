@@ -66,29 +66,29 @@ Cliente → Sitio público → Panel admin → CRM (proyectos IMA) → Supabase 
 ## 📸 Capturas de pantalla
 
 ### Sitio público
-[![Home de RD Environmenty](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/home.png)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/home.png)
+[![Home de RD Environmenty](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/screenshots/home.jpg)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/screenshots/home.jpg)
 
-[![Servicios](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/servicios.png)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/servicios.png)
+[![Servicios](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/screenshots/servicios.jpg)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/screenshots/servicios.jpg)
 
-[![Portafolio](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/portafolio.png)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/portafolio.png)
+[![Portafolio](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/screenshots/portafolio.jpg)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/screenshots/portafolio.jpg)
 
-[![Blog](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/blog.png)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/blog.png)
+[![Blog](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/screenshots/blog.jpg)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/screenshots/blog.jpg)
 
-[![Contacto](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/contacto.png)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/contacto.png)
+[![Contacto](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/screenshots/contacto.jpg)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/screenshots/contacto.jpg)
 
 ### Panel admin
-[![Login del panel](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/panel-login.png)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/panel-login.png)
+[![Login del panel](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/screenshots/panel-login.jpg)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/screenshots/panel-login.jpg)
 
-[![CRM de proyectos IMA](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/panel-crm-ima.png)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/panel-crm-ima.png)
+[![CRM de proyectos IMA](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/screenshots/panel-crm-ima.jpg)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/screenshots/panel-crm-ima.jpg)
 
-[![Puntos de muestreo formato OEFA](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/panel-puntos-oefa.png)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/panel-puntos-oefa.png)
+[![Puntos de muestreo formato OEFA](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/screenshots/panel-puntos-oefa.jpg)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/screenshots/panel-puntos-oefa.jpg)
 
-[![Subcarpetas de documentos](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/panel-documentos.png)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/panel-documentos.png)
+[![Subcarpetas de documentos](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/screenshots/panel-documentos.jpg)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/screenshots/panel-documentos.jpg)
 
 ### Portal clientes
-[![Login del portal](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/portal-login.png)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/portal-login.png)
+[![Login del portal](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/screenshots/portal-login.jpg)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/screenshots/portal-login.jpg)
 
-[![Documentos compartidos](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/portal-documentos.png)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/portal-documentos.png)
+[![Documentos compartidos](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/screenshots/portal-documentos.jpg)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/screenshots/portal-documentos.jpg)
 
 ---
 
