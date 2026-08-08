@@ -70,7 +70,15 @@ Cliente → Sitio público → Panel admin → CRM (proyectos IMA) → Supabase 
 
 [![Servicios](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/servicios.png)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/servicios.png)
 
+[![Portafolio](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/portafolio.png)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/portafolio.png)
+
+[![Blog](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/blog.png)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/blog.png)
+
+[![Contacto](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/contacto.png)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/contacto.png)
+
 ### Panel admin
+[![Login del panel](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/panel-login.png)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/panel-login.png)
+
 [![CRM de proyectos IMA](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/panel-crm-ima.png)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/panel-crm-ima.png)
 
 [![Puntos de muestreo formato OEFA](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/panel-puntos-oefa.png)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/panel-puntos-oefa.png)
@@ -78,7 +86,9 @@ Cliente → Sitio público → Panel admin → CRM (proyectos IMA) → Supabase 
 [![Subcarpetas de documentos](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/panel-documentos.png)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/panel-documentos.png)
 
 ### Portal clientes
-[![Portal de clientes](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/portal-documentos.png)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/portal-documentos.png)
+[![Login del portal](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/portal-login.png)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/portal-login.png)
+
+[![Documentos compartidos](/digitalceler/rd-environmenty-next-showcase/raw/main/assets/screenshots/portal-documentos.png)](/digitalceler/rd-environmenty-next-showcase/blob/main/assets/screenshots/portal-documentos.png)
 
 ---
 
