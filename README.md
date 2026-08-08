@@ -1,6 +1,6 @@
 # RD Environmenty — Sistema web para monitoreo ambiental
 
-[![Demo](https://img.shields.io/badge/demo-rdenvironmenty.pe-38a169)](https://rdenvironmenty.pe) [![Panel Admin](https://img.shields.io/badge/admin-rdenvironmenty.pe%2Fadmin-38a169)](https://rdenvironmenty.pe/admin) [![Arquitectura](https://img.shields.io/badge/docs-arquitectura-8b5cf6)](/digitalceler/rd-environmenty-next-showcase/blob/main/docs/arquitectura.md)
+[![Demo](https://img.shields.io/badge/demo-rd--environmenty--next.vercel.app-38a169)](https://rd-environmenty-next.vercel.app) [![Panel Admin](https://img.shields.io/badge/admin-vercel.app%2Fadmin-38a169)](https://rd-environmenty-next.vercel.app/admin) [![Arquitectura](https://img.shields.io/badge/docs-arquitectura-8b5cf6)](/digitalceler/rd-environmenty-next-showcase/blob/main/docs/arquitectura.md)
 
 **RD Environmenty** es el sistema web completo de una empresa peruana de servicios ambientales: sitio público con portafolio y blog, panel de administración con CRM de proyectos (monitoreos ambientales en formato OEFA) y portal de clientes con documentos compartidos.
 
@@ -55,11 +55,11 @@ Cliente → Sitio público → Panel admin → CRM (proyectos IMA) → Supabase 
 
 ## 🚀 Demo en vivo
 
-**👉 [rdenvironmenty.pe](https://rdenvironmenty.pe)**
+**👉 [rd-environmenty-next.vercel.app](https://rd-environmenty-next.vercel.app)**
 
-- Sitio público: `rdenvironmenty.pe`
-- Panel admin: `rdenvironmenty.pe/admin`
-- Portal clientes: `rdenvironmenty.pe/portal`
+- Sitio público: `rd-environmenty-next.vercel.app`
+- Panel admin: `rd-environmenty-next.vercel.app/admin`
+- Portal clientes: `rd-environmenty-next.vercel.app/portal`
 
 ---
 
@@ -113,8 +113,8 @@ Detalle completo: [docs/arquitectura.md](/digitalceler/rd-environmenty-next-show
 
 ## 🔗 Enlaces
 
-- **Demo**: [rdenvironmenty.pe](https://rdenvironmenty.pe)
-- **Panel admin**: [rdenvironmenty.pe/admin](https://rdenvironmenty.pe/admin)
+- **Demo**: [rd-environmenty-next.vercel.app](https://rd-environmenty-next.vercel.app)
+- **Panel admin**: [rd-environmenty-next.vercel.app/admin](https://rd-environmenty-next.vercel.app/admin)
 - **Documentación de arquitectura**: [docs/arquitectura.md](/digitalceler/rd-environmenty-next-showcase/blob/main/docs/arquitectura.md)
 
 ---
